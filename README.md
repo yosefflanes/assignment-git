@@ -1,3 +1,4 @@
 - Folder Landing page berisi file html, css tanpa framwork / pure css dan folder assets untuk menyimpan logo dan gambar
 - Folder dan File diluar Landing Page menggunakan framework Tailwindcss
 - Tampilan Mobile mengikuti Layout yang tersedia sehingga width nya tidak di set agar konten tetap melebar kesamping
+- Admin page di running menggunakan tailwind css sesuai dengan dependencies yang tercantum pada package.json
